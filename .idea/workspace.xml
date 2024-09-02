@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="abstracbaseuser and create table profile">
+    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="add todolist model and module">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/account/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/account/templates/accounts/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/list_todo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/list_todo/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/list_todo/templates/todo/list_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/list_todo/templates/todo/update_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/list_todo/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/managers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/list_todo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/list_todo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/list_todo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/list_todo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/list_todo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/list_todo/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/todolist/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/todolist/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/todolist/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/todolist/urls.py" afterDir="false" />
     </list>
@@ -17,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -35,8 +54,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/dev/project/django_advance_code/practice/todo_list/todolist/db.sqlite3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725284808773</updated>
-      <workItem from="1725284811488" duration="7325000" />
+      <workItem from="1725284811488" duration="10719000" />
     </task>
     <task id="LOCAL-00001" summary="create account module">
       <option name="closed" value="true" />
@@ -78,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725290011653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add todolist model and module">
+      <option name="closed" value="true" />
+      <created>1725310104847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725310104847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create account module" />
     <MESSAGE value="abstracbaseuser and create table profile" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstracbaseuser and create table profile" />
+    <MESSAGE value="add todolist model and module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add todolist model and module" />
   </component>
 </project>
