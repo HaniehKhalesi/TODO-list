@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="create account module">
-      <change afterPath="$PROJECT_DIR$/todolist/account/managers.py" afterDir="false" />
+    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="abstracbaseuser and create table profile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.text" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/todolist/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/todolist/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/todolist/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/todolist/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725284808773</updated>
-      <workItem from="1725284811488" duration="4126000" />
+      <workItem from="1725284811488" duration="7325000" />
     </task>
     <task id="LOCAL-00001" summary="create account module">
       <option name="closed" value="true" />
@@ -73,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725286755033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="abstracbaseuser and create table profile">
+      <option name="closed" value="true" />
+      <created>1725290011653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725290011653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create account module" />
-    <option name="LAST_COMMIT_MESSAGE" value="create account module" />
+    <MESSAGE value="abstracbaseuser and create table profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstracbaseuser and create table profile" />
   </component>
 </project>
