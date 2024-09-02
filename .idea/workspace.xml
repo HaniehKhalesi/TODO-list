@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="" />
+    <list default="true" id="368cdcd6-362f-4226-ac62-2a52311b0fcd" name="Changes" comment="create account module">
+      <change afterPath="$PROJECT_DIR$/todolist/account/managers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.text" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/todolist/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/todolist/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,11 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725284808773</updated>
-      <workItem from="1725284811488" duration="1526000" />
+      <workItem from="1725284811488" duration="4126000" />
     </task>
+    <task id="LOCAL-00001" summary="create account module">
+      <option name="closed" value="true" />
+      <created>1725286755033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725286755033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create account module" />
+    <option name="LAST_COMMIT_MESSAGE" value="create account module" />
   </component>
 </project>
